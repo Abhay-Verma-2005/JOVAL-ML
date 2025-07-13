@@ -1,0 +1,50 @@
+user_id,relation,disease,hereditary
+1,Mother,Hypertension,Yes
+1,Father,Diabetes Type 2,Yes
+2,Grandmother,Heart Disease,Yes
+3,Mother,Breast Cancer,Yes
+4,Father,High Cholesterol,Yes
+4,Brother,Obesity,No
+5,Mother,Osteoporosis,Yes
+6,Father,Hypertension,Yes
+7,Sister,Diabetes Type 2,Yes
+8,Father,Heart Disease,Yes
+9,Mother,Thyroid Disease,Yes
+10,Father,Hypertension,Yes
+10,Uncle,Stroke,Yes
+11,Mother,Arthritis,Yes
+12,Father,Diabetes Type 2,Yes
+13,Mother,High Cholesterol,Yes
+14,Father,Liver Disease,No
+15,Grandmother,Osteoporosis,Yes
+16,Father,Heart Disease,Yes
+16,Mother,Hypertension,Yes
+17,Sister,Anxiety Disorder,No
+18,Father,Diabetes Type 2,Yes
+19,Mother,Thyroid Disease,Yes
+20,Father,Hypertension,Yes
+21,Mother,Breast Cancer,Yes
+22,Father,High Cholesterol,Yes
+23,Mother,Diabetes Type 2,Yes
+24,Father,Heart Disease,Yes
+25,Mother,Osteoporosis,Yes
+26,Father,Hypertension,Yes
+27,Sister,Diabetes Type 2,Yes
+28,Father,Heart Disease,Yes
+29,Mother,Thyroid Disease,Yes
+30,Father,Hypertension,Yes
+31,Mother,Anxiety Disorder,No
+32,Father,Diabetes Type 2,Yes
+33,Mother,High Cholesterol,Yes
+34,Father,Heart Disease,Yes
+35,Mother,Osteoporosis,Yes
+36,Father,Hypertension,Yes
+37,Mother,Diabetes Type 2,Yes
+38,Father,Heart Disease,Yes
+39,Sister,Thyroid Disease,Yes
+40,Father,Hypertension,Yes
+41,Mother,Breast Cancer,Yes
+42,Father,Diabetes Type 2,Yes
+43,Mother,Arthritis,Yes
+44,Father,High Cholesterol,Yes
+45,Mother,Osteoporosis,Yes

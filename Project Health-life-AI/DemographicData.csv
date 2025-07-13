@@ -1,0 +1,46 @@
+user_id,age,gender,ethnicity,height_cm,weight_kg
+1,34,Female,Caucasian,165,68
+2,28,Male,Hispanic,175,82
+3,45,Female,African American,162,75
+4,52,Male,Caucasian,180,95
+5,31,Female,Asian,158,55
+6,29,Male,Mixed Race,178,78
+7,38,Female,Hispanic,160,70
+8,41,Male,Caucasian,183,88
+9,26,Female,Asian,163,58
+10,35,Male,African American,177,85
+11,48,Female,Caucasian,167,72
+12,33,Male,Hispanic,174,80
+13,44,Female,African American,165,78
+14,39,Male,Asian,172,70
+15,27,Female,Caucasian,169,65
+16,56,Male,Caucasian,179,92
+17,30,Female,Mixed Race,161,62
+18,42,Male,Hispanic,176,83
+19,37,Female,Asian,159,56
+20,46,Male,African American,181,89
+21,32,Female,Caucasian,164,67
+22,25,Male,Hispanic,173,75
+23,49,Female,African American,166,74
+24,36,Male,Asian,170,68
+25,43,Female,Caucasian,168,73
+26,29,Male,Mixed Race,182,86
+27,40,Female,Hispanic,157,69
+28,53,Male,Caucasian,184,94
+29,31,Female,Asian,162,59
+30,47,Male,African American,178,87
+31,24,Female,Caucasian,170,64
+32,38,Male,Hispanic,175,81
+33,45,Female,Mixed Race,163,71
+34,50,Male,Caucasian,177,90
+35,33,Female,Asian,160,57
+36,41,Male,African American,179,84
+37,28,Female,Hispanic,165,66
+38,54,Male,Caucasian,180,93
+39,35,Female,Mixed Race,164,68
+40,42,Male,Asian,171,72
+41,26,Female,African American,167,63
+42,39,Male,Hispanic,176,79
+43,44,Female,Caucasian,161,76
+44,37,Male,Mixed Race,174,77
+45,48,Female,Asian,158,54
